@@ -19,4 +19,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
