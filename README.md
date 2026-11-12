@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0041-first-missing-positive) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
