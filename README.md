@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0189-rotate-array](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
