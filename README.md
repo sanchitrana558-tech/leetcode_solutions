@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0041-first-missing-positive](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0041-first-missing-positive) |
 ## Hash Table
 |  |
@@ -14,10 +15,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0065-valid-number](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0065-valid-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0009-palindrome-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
