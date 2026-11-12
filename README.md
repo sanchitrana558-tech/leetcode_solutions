@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/sanchitrana558-tech/leetcode_solutions/tree/master/0066-plus-one) |
 ## Trie
 |  |
 | ------- |
